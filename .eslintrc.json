@@ -1,0 +1,9 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "react/no-unescaped-entities": 1,
+    "@next/next/google-font-display": "on",
+    "@next/next/google-font-preconnect": "on",
+    "@next/next/no-img-element": "on"
+  }
+}

@@ -1,0 +1,42 @@
+:root {
+    --hermtac-orange: #ff8300;
+    --hermtac-purple: #b4b3df;
+    --hermtac-blue: #1226aa;
+  }
+
+.reset-style{
+    all:revert;
+}
+
+.hermtac-font{
+    font-family: 'EB Garamond', serif;
+}
+
+.hermtac-orange{
+    color: var(--hermtac-orange);
+}
+.hermtac-purple{
+    color: var(--hermtac-purple)
+}
+.hermtac-blue{
+    color: var(--hermtac-blue)
+}
+
+.hermtac-normal{
+    font-weight:normal;
+}
+
+.hermtac-bold{
+    font-weight:bold;
+}
+
+
+.hermtac-left{
+    text-align:left;
+}
+.hermtac-center{
+    text-align: center;
+}
+.hermtac-right{
+    text-align: right;
+}
